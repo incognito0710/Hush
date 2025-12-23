@@ -37,7 +37,7 @@ Here are some screenshots of the chat application:
 ![](https://github.com/Kshitijk5/Springboot-chatapp/blob/master/img/login-vid.gif)
 
 2. Chat Page
-- Chatroom ![](https://github.com/Kshitijk5/Springboot-chatapp/blob/master/img/Chat-2.png)
+- Chatroom ![](https://github.com/incognito0710/Hush/blob/main/img/Chat-1.png)
 
 - Private Text ![]([https://github.com/incognito0710/Hush/blob/main/img/Chat-1.png])
 
